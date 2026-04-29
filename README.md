@@ -68,7 +68,7 @@
 
 <p>
   <a href="https://github.com/kaboelnaga"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="www.linkedin.com/in/kaboelnaga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/kaboelnaga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/></a>
 </p>
 
