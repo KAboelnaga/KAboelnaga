@@ -64,8 +64,8 @@
 
 ## 📫 Contact Me
 
-- Email: your-email@example.com  
-- LinkedIn: (add link here)
+- Email: kaaboelnaga@gmail.com
+- LinkedIn: www.linkedin.com/in/kaboelnaga
 
 ---
 
