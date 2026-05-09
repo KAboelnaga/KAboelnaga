@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaboelnaga&color=blue" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Django-based management systems, AI-powered applications, and modern React projects<br><br>👯 I’m looking to collaborate on full-stack web apps, AI projects, and open-source tools<br><br>🤝 I’m looking for help with scalable system architecture, DevOps, and advanced backend engineering<br><br>🌱 I’m currently learning React Three Fiber, and scalable backend design<br><br>💬 Ask me about Django, React, Flask, MYSQL, and full-stack development<br><br>⚡ Fun fact: I can spend hours debugging one issue and still enjoy programming the next day<br>
 
